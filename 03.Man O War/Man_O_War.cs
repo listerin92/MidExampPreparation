@@ -39,7 +39,6 @@ namespace _03.Man_O_War
                 {
 
                 }
-
             }
 
         }
